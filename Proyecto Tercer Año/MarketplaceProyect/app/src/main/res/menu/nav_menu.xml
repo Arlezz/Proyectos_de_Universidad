@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/opcionesBasicas"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/inicio"/>
+        <item
+            android:id="@+id/buscar"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="@string/buscar"
+            android:checkable="false"/>
+
+        <item
+            android:id="@+id/categorias"
+            android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+            android:title="@string/categor_as" />
+        <item
+            android:id="@+id/miCuenta"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/mi_cuenta" />
+    </group>
+
+
+
+
+    <group
+        android:id="@+id/opcionesMarket"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/vender"
+            android:icon="@drawable/ic_baseline_add_business_24"
+            android:title="@string/vender"/>
+
+        <item
+            android:id="@+id/mis_publicaciones"
+            android:icon="@drawable/mi_products"
+            android:title="Mis publicaciones"/>
+    </group>
+
+    <group
+        android:id="@+id/opcionesApp">
+        <item
+            android:id="@+id/opcionesAppItem"
+            android:title="@string/app">
+            <menu>
+                <item
+                    android:id="@+id/logOut"
+                    android:icon="@drawable/ic_baseline_power_settings_new_24"
+                    android:title="@string/cerrar_sesi_n" />
+            </menu>
+        </item>
+    </group>
+</menu>

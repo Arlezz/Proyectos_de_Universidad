@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Easy Shop</string>
+    <string name="txt_view_string">Completa tus datos</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_rut">Rut</string>
+    <string name="txt_region">Region</string>
+    <string name="txt_comuna">Comuna</string>
+    <string name="txt_calle">Calle</string>
+    <string name="txt_numero">Numero</string>
+    <string name="txt_telefono">Telefono</string>
+    <string name="txt_buscarid">Inserte id</string>
+    <string name="txt_server">Respuesta del server</string>
+    <string name="txt_boton_registrar">Continuar</string>
+    <string name="boton_id">Buscar</string>
+    <string name="boton_BuscarId">GetId</string>
+    <string name="boton_actualizar">Act.</string>
+    <string name="TTT">ID</string>
+    <string name="txt_bienvenida">Bienvenida</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_clave">Contraseña</string>
+    <string name="txt_username">Nombre de Usuario</string>
+    <string name="boton_logearte">Iniciar sesión</string>
+    <string name="O">O</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="olvido_contraseña">¿Ha olvidado su contraseña?</string>
+    <string name="username_invalida">Usuario no valido</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="inicio">Inicio</string>
+    <string name="buscar">Buscar</string>
+    <string name="categor_as">Categorías</string>
+    <string name="mi_cuenta">Mi cuenta</string>
+    <string name="app">App</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="content_description_search">descripcion xdd</string>
+    <string name="vender">Vender</string>
+    <string name="nombre_del_usuario">NOMBRE USUARIO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="se_ha_publicado_tu_producto">Se ha publicado tu producto!</string>
+
+</resources>

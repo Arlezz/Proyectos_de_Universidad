@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.modificarEmailActivity">
+
+    <LinearLayout
+        android:id="@+id/container_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryColor"
+            android:paddingLeft="15dp"
+            android:paddingTop="12dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="12dp">
+
+            <ImageView
+                android:id="@+id/backMisDatos3"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:contentDescription="@string/app_name"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                app:layout_constraintStart_toStartOf="parent"
+                android:src="@drawable/ic_baseline_arrow_back_24"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:tint="@color/primaryTextColor" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cambiar clave"
+                android:textSize="20sp"
+                android:layout_marginStart="16dp"
+                android:textColor="@color/primaryTextColor"
+                app:layout_constraintStart_toEndOf="@id/backMisDatos3"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="15dp"
+            android:paddingStart="15dp"
+            android:paddingEnd="15dp"
+            android:background="@color/blancoMC">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="5dp"
+                    app:cardElevation="4dp"
+                    app:cardUseCompatPadding="true">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="30dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Tu clave debe tener entre 6 y  20 caracteres. No incluyas tu nombre, ni caracteres consecutivos"
+                            android:textSize="16sp"/>
+
+                        <Space
+                            android:layout_width="match_parent"
+                            android:layout_height="20dp" />
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:endIconMode="password_toggle"
+                            android:hint="Nueva clave">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/modificaClave"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/white"
+                                android:inputType="textPassword"
+                                android:textSize="18dp"
+                                android:maxLength="50"/>
+
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <Space
+                            android:layout_width="match_parent"
+                            android:layout_height="20dp" />
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/claveConfirmaLauout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:endIconMode="password_toggle"
+                            app:errorEnabled="true"
+                            android:hint="Confirma la nueva clave">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/modificaClaveConfirma"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/white"
+                                android:inputType="textPassword"
+                                android:textSize="18dp"
+                                android:maxLength="50"/>
+
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <Space
+                            android:layout_width="match_parent"
+                            android:layout_height="10dp" />
+                        <Button
+                            android:id="@+id/botonModificarClave"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Cambiar clave"
+                            android:backgroundTint="@color/primaryDarkColor"
+                            android:textAllCaps="false"/>
+
+                        <Button
+                            android:id="@+id/cancelarModClavel"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textAllCaps="false"
+                            android:text="Cancelar"
+                            style="@style/Widget.MaterialComponents.Button.TextButton"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

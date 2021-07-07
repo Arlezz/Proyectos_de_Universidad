@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blancoPantalla">#FAFAFA</color>
+    <color name="colorPrimario">#FF6969</color>
+    <color name="colorPrimarioOpacidad">#EF5959</color>
+    <color name="colorPrimary">#02adab</color>
+    <color name="colorPrimaryDark">#02adab</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimaryOpacidad">#CD02ADAB</color>
+    <color name="colorPrimarioOpacidad10">#FFCECE</color>
+    <color name="gris">#90a4ae</color>
+    <color name="colorBlancoOpacidad">#CBF5F5F5</color>
+    <color name="blancoMC">#F5F5F5</color>
+    <color name="marcoVender">#9E9E9E</color>
+    <color name="grisClaro">#EAEAEA</color>
+    <color name="verdeClaro">#1DB954</color>
+    <color name="grisOscuro">#333333</color>
+
+    <color name="rojo">#d50000</color>
+
+    <color name="verdeDinero">#1eccac</color>
+    <color name="verdeDineroClaro">#68ffde</color>
+    <color name="verdeDineroOscuro">#009a7d</color>
+
+
+
+    <color name="primaryColor">#00838f</color>
+    <color name="primaryLightColor">#4fb3bf</color>
+    <color name="primaryDarkColor">#005662</color>
+    <color name="secondaryColor">#00acc1</color>
+    <color name="secondaryLightColor">#5ddef4</color>
+    <color name="secondaryDarkColor">#007c91</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
+
+    <!--
+    <color name="primaryColor">#0097a7</color>
+    <color name="primaryLightColor">#56c8d8</color>
+    <color name="primaryDarkColor">#006978</color>
+    <color name="secondaryColor">#00838f</color>
+    <color name="secondaryLightColor">#4fb3bf</color>
+    <color name="secondaryDarkColor">#005662</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color> -->
+
+   <!--
+    <color name="primaryColor">#304ffe</color>
+    <color name="primaryLightColor">#7a7cff</color>
+    <color name="primaryDarkColor">#0026ca</color>
+    <color name="secondaryColor">#3f51b5</color>
+    <color name="secondaryLightColor">#757de8</color>
+    <color name="secondaryDarkColor">#002984</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color> -->
+    
+    
+    <!--material color interfaces
+    <color name="primaryColor">#1a237e</color>
+    <color name="primaryLightColor">#534bae</color>
+    <color name="primaryDarkColor">#000051</color>
+    <color name="secondaryColor">#0d47a1</color>
+    <color name="secondaryLightColor">#5472d3</color>
+    <color name="secondaryDarkColor">#002171</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+
+    asd-->
+</resources>

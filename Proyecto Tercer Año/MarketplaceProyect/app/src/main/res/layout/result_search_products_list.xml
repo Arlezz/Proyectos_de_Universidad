@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="4dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <org.imaginativeworld.whynotimagecarousel.ImageCarousel
+                    android:id="@+id/carouselResultSearch"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    app:carouselType="SHOWCASE"
+                    app:imageScaleType="fitCenter"
+                    app:showCaption="false"
+                    app:showIndicator="false"
+                    app:showNavigationButtons="false"
+                    app:showTopShadow="false"
+                    app:showBottomShadow="false"
+                    app:infiniteCarousel="false"
+                    android:overScrollMode="never"
+                    app:layout_constraintDimensionRatio="4:3"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
+            <me.relex.circleindicator.CircleIndicator2
+                android:id="@+id/indicatorResulSearch"
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                app:ci_drawable="@drawable/circle_indicator_round"
+                app:ci_animator="@animator/scale_with_alpha"/>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/grisClaro" />
+
+        <TextView
+            android:id="@+id/tittleSearchResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:text="titulo del producto"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/priceSearchResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:paddingBottom="5dp"
+            android:text="$ precio"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/shippingPriceSearchResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:paddingBottom="10dp"
+            android:text="Envío"
+            android:gravity="center_vertical"
+            android:textColor="@color/verdeClaro"
+            android:textSize="14sp"
+            android:drawableLeft="@drawable/truck"
+            android:drawablePadding="5dp"/>
+
+        <TextView
+            android:id="@+id/estadoResultSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:textSize="12dp"
+            android:text="Estado"
+            android:paddingBottom="10dp"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

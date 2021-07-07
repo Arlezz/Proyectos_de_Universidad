@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Vista.InicioSesion" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/InicioSesion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="176" x="956" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Modelo.archivos" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/archivos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="576" y="2470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Vista.UnitTest" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/UnitTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="123" x="793" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Vista.AlumnoGUI" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/AlumnoGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="729" width="275" x="1881" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Modelo.FileSystemModel.TreeFile" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/FileSystemModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="119" x="3227" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Modelo.ModeloNotasAlumno" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/ModeloNotasAlumno.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="196" x="340" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Vista.ProfesorGUI.CrearExamen.botonFinalizarCreacionExamen" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="1138" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Modelo.Selec_Mul_Pregunta" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/Selec_Mul_Pregunta.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="225" x="2381" y="2470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Vista.ProfesorGUI.CrearExamen.botonGuardarRespCorta" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2325" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Vista.AlumnoGUI.noAgregaLetrasRUTField" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/AlumnoGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="1676" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Vista.Email" project="PROYECTO DOS" file="/PROYECTO DOS/src/Vista/Email.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="314" x="241" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Vista.ProfesorGUI.CrearExamen" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="855" width="258" x="1378" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Vista.ProfesorGUI.noAgregaLetrasRUTField" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="1172" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Vista.Conexion" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/Conexion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="160" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Vista.ProfesorGUI.CrearExamen.botonActivarTiempo" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1623" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Modelo.Pregunta" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/Pregunta.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="130" x="2559" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Modelo.admin" project="PROYECTO DOS" file="/PROYECTO DOS/src/Modelo/admin.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="157" x="2444" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Vista.AlumnoGUI.ExamenGUI" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/AlumnoGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="927" width="318" x="2086" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Vista.ProfesorGUI.CrearExamen.btnAgregaMasAlternativas" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2091" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="Modelo.TFpreguntas" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/TFpreguntas.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="178" x="2905" y="2470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Vista.ProfesorGUI.muestraDatosAlumno" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="249" x="340" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Vista.AlumnoGUI.letraMayuscula" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/AlumnoGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="1881" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="Vista.ProfesorGUI.CrearExamen.botonGuardarSelMulListener" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1857" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="Vista.AdminGUI.noAgregaLetrasRUTField" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/AdminGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="2846" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="Modelo.ConvierteExamenJson" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/ConvierteExamenJson.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="317" x="576" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="Modelo.Exam" project="PROYECTO DOS" file="/PROYECTO DOS/src/Modelo/Exam.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="246" x="2729" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="Vista.ProfesorGUI.CrearExamen.noAgregaLetrasField" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="933" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="Vista.AdminGUI.letraMayuscula" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/AdminGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="2641" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="Vista.ProfesorGUI" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="249" x="1172" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="Modelo.FileSystemModel" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/FileSystemModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="272" x="3074" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="Modelo.Resp_Cortas_Pregunta" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/Resp_Cortas_Pregunta.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="219" x="2646" y="2470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="Modelo.FechaDeCreacion" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/FechaDeCreacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="158" x="595" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="Modelo.ExamDemo" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/ExamDemo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="136" x="3051" y="950"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="Vista.AdminGUI" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Vista/AdminGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="873" width="209" x="2641" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="Vista.ProfesorGUI.CrearExamen.botonGuardarVerdFalsoListener" 
+    project="PROYECTO DOS" file="/PROYECTO DOS/src/Vista/ProfesorGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="205" x="1378" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="Modelo.JSONaExamen" project="PROYECTO DOS" 
+    file="/PROYECTO DOS/src/Modelo/JSONaExamen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="259" x="41" y="1917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="37">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="38">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="39" name="selecmulpreg">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="40" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="41">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <nesting id="42">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <nesting id="44">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <nesting id="46">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="47">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="48" name="tfpreg">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="51" name="archivos">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="53">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <nesting id="54">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <nesting id="55">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <association id="56">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="57" name="examem">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="60" name="examenCreado">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="62">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <nesting id="64">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <nesting id="65">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <nesting id="66">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <nesting id="67">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="68">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="69" name="revision">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="70" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="72" name="jsonArchivo">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="73" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="75" name="rcpreg">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="76" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="78" name="examen">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="79" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="81" name="alumno">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="82" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <nesting id="84">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="23"/>  
+  </nesting>  
+  <nesting id="85">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <association id="86">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="87" name="adm">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="88" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
