@@ -6,12 +6,12 @@ Este repositorio guarda todos los proyectos que se van ha hacer o ya se hicieron
 Cualquier comentario o recomendación les pedimos generar un issue de consulta o escribirnos directamente a antonyrodriguezc.2001@gmail.com.
 
 
-## Tabla de contenidos 👇:
+## Tabla de contenidos 👇:   
 ---
 
-- [Proyectos Primer Año](https://github.com/Arlezz/Proyectos_de_Universidad/tree/main/Proyectos%20Primer%20A%C3%B1o)
-- Proyectos Segundo Año
-- Proyectos Tercer Año
+- [Proyectos Primer Año](https://github.com/Arlezz/Proyectos_de_Universidad/tree/main/Proyectos%20Primer%20A%C3%B1o)<Introducción a la Informatica y Prog. Estructurada>
+- [Proyectos Segundo Año](https://github.com/Arlezz/Proyectos_de_Universidad/tree/main/Proyecto%20Segundo%20A%C3%B1o/PROYECTO%20DOS) <Estructura de datos y POO>
+- [Proyectos Tercer Año](https://github.com/Arlezz/Proyectos_de_Universidad/tree/main/Proyecto%20Tercer%20A%C3%B1o) 
 
 ## Badges o escudos
 ---
